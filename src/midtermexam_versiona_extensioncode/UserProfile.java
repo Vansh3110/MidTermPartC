@@ -4,6 +4,7 @@
  * and open the template in the editor.
  */
 package midtermexam_versiona_extensioncode;
+import java.util.Scanner;
 
 /**
  * The user profile for the OnlineVids system. The user has a userID
@@ -60,7 +61,6 @@ public class UserProfile
     public void setGenre(String genre) {
         this.genre = genre;
     }
-    
     
     
     
