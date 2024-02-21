@@ -62,7 +62,7 @@ public class UserProfile
         this.genre = genre;
     }
     
-    
+    //vansh Adding the comments to UserProfile.java file
     
     
 }//end class
